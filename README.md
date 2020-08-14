@@ -43,7 +43,7 @@ BeTheHero is a project that aims to connect people who want to make monetary con
 
 ## 🔖 Layout
 
-You can see the project layout [here](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1). A [Figma](http://figma.com/) account is necessary tho.
+You can see the project layout [here](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). A [Figma](http://figma.com/) account is necessary tho.
 
 
 ## 🤔 How to contribute
